@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cat-general",
+    "name": "General",
+    "description": "General support and troubleshooting guides",
+    "color": "#6366f1",
+    "createdAt": "2026-11-19T11:06:46.467Z"
+  },
+  {
+    "id": "cat-1795086406627-ydjz",
+    "name": "Billing",
+    "description": "Billing runbooks and guides",
+    "color": "#6366f1",
+    "createdAt": "2026-11-19T11:06:46.627Z"
+  }
+]

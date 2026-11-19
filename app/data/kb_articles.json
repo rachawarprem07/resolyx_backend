@@ -1,0 +1,55 @@
+[
+  {
+    "id": "KB-911",
+    "title": "Enterprise VPN Setup & Gateway Troubleshooting",
+    "category": "General",
+    "summary": "Comprehensive guide for setting up corporate VPN clients and resolving gateway authentication errors.",
+    "solutionMarkdown": "### Step-by-Step Resolution\n1. Verify client certificate validity\n2. Flush DNS cache\n3. Restart tunnel adapter",
+    "tags": [
+      "General"
+    ],
+    "author": "Administrator",
+    "updatedAt": "Just now",
+    "viewsCount": 1,
+    "helpfulCount": 0,
+    "isAiIndexed": true,
+    "attachments": [],
+    "visibility": "all",
+    "targetRoles": [
+      "admin",
+      "agent",
+      "customer"
+    ]
+  },
+  {
+    "id": "KB-631",
+    "title": "How to Troubleshoot and Resolve a Slow Computer",
+    "category": "Billing",
+    "summary": "ads",
+    "solutionMarkdown": ". Step-by-Step Resolution\n\nStep 1: Restart Your Computer\n\nSave all open documents and files.\n\nClose running applications.\n\nOpen the Windows Start menu.\n\nSelect Power.\n\nClick Restart.\n\nWait for the system to restart completely.\n\nCheck whether system performance improves.\n\nStep 2: Check Task Manager\n\nPress Ctrl + Shift + Esc.\n\nOpen Task Manager.\n\nSelect the Processes tab.\n\nReview CPU, Memory, and Disk usage.\n\nIdentify applications consuming unusually high resources.\n\nClose applications that are unnecessary and safe to terminate.\n\nImportant: Do not terminate unknown Windows system processes.\n\nStep 3: Disable Unnecessary Startup Applications\n\nOpen Task Manager.\n\nSelect Startup apps.\n\nReview applications enabled during startup.\n\nIdentify applications that are not required immediately after login.",
+    "tags": [
+      "Billing"
+    ],
+    "author": "Prem Rachawar",
+    "updatedAt": "Just now",
+    "viewsCount": 1,
+    "helpfulCount": 0,
+    "isAiIndexed": true,
+    "attachments": [
+      {
+        "id": "att-1795083367216-7pec",
+        "name": "cfd66947-0fce-416d-8706-2a7c25c5b00e.png",
+        "type": "image",
+        "url": "https://resolyx.s3.amazonaws.com/kb-media/4a3f3d6332d0_cfd66947-0fce-416d-8706-2a7c25c5b00e.png",
+        "size": "1.7 MB",
+        "mimeType": "image/png"
+      }
+    ],
+    "visibility": "all",
+    "targetRoles": [
+      "admin",
+      "agent",
+      "customer"
+    ]
+  }
+]
